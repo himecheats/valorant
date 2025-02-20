@@ -21,5 +21,8 @@ Loader
 
 ![image](https://github.com/user-attachments/assets/4f0223ee-0b19-43d5-9c07-34845827fc4f)
 
+You can either compile the script yourself (driver private) or reverse engineer it (ida, x64dbg) to test it.
+
+
 
 download - https://github.com/himecheats/valorant/releases/download/program/HimeValo.exe
