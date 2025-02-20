@@ -7,9 +7,13 @@ Menu (EXTERNAL)
 FUNCTIONS
 
 ⭐ **1 - ESP**
+
 ⭐ **2 - AIMBOT**
+
 ⭐ **3 - Trigger**
+
 ⭐ **4 - AntiAim**
+
 ⭐ **5 - FakeLag**
 
 
